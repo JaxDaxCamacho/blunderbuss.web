@@ -1,0 +1,9 @@
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\bin\Debug\netstandard2.1\blunderbosses.web.Shared.deps.json
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\bin\Debug\netstandard2.1\blunderbosses.web.Shared.dll
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\bin\Debug\netstandard2.1\blunderbosses.web.Shared.pdb
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\obj\Debug\netstandard2.1\blunderbosses.web.Shared.csprojAssemblyReference.cache
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\obj\Debug\netstandard2.1\blunderbosses.web.Shared.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\obj\Debug\netstandard2.1\blunderbosses.web.Shared.AssemblyInfo.cs
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\obj\Debug\netstandard2.1\blunderbosses.web.Shared.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\obj\Debug\netstandard2.1\blunderbosses.web.Shared.dll
+C:\Users\joaod\source\repos\Blunderbuss.web\blunderbosses.web\blunderbosses.web\Shared\obj\Debug\netstandard2.1\blunderbosses.web.Shared.pdb
